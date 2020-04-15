@@ -5,4 +5,6 @@ Bastante útil para aqueles que estão iniciando e também importante para adici
 
 EP03-Codigo de Verificação de documento
 
-EP04-Par x,y contido no espaço 
+EP04-Verificar se o Par x,y contido no espaço  
+
+EP05-Trios Pitagoreanos
