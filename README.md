@@ -9,4 +9,4 @@ EP04-Verificar se o Par x,y contido no espaço
 
 EP05-Trios Pitagoreanos
 
-EP06- Vriar funções: primo, conjectura de goldbach, exponecial, logistica
+EP06- Criar funções: primo, conjectura de goldbach, exponecial, logistica
