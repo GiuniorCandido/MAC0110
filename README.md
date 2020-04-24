@@ -10,3 +10,5 @@ EP04-Verificar se o Par x,y contido no espaço
 EP05-Trios Pitagoreanos
 
 EP06- Criar funções: primo, conjectura de goldbach, exponecial, logistica
+
+EP07- Cálculo de integral por método de retângulo
