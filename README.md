@@ -12,3 +12,5 @@ EP05-Trios Pitagoreanos
 EP06- Criar funções: primo, conjectura de goldbach, exponecial, logistica
 
 EP07- Cálculo de integral por método de retângulo
+
+EP08- Aplicação de listas cíclicas- permutação
