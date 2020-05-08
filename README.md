@@ -14,3 +14,5 @@ EP06- Criar funções: primo, conjectura de goldbach, exponecial, logistica
 EP07- Cálculo de integral por método de retângulo
 
 EP08- Aplicação de listas cíclicas- permutação
+
+EP09- Baseado no EP8 porém considera lista de pessoas que sortearam a si mesma
